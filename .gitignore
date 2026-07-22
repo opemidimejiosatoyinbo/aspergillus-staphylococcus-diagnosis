@@ -1,0 +1,22 @@
+.DS_Store
+
+# Virtual environment
+af-sa-diagnosis/
+venv/
+env/
+
+# Data
+data/raw/
+data/images/
+data/processed/
+data/structural/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.pt
+*.pth
+*.h5
+*.pkl

@@ -1,0 +1,5 @@
+metric,value
+kmer_nn_cv_mean_accuracy,0.84375
+kmer_nn_test_accuracy,0.775
+kmer_nn_test_f1,0.7096774193548387
+majority_class_baseline,0.565

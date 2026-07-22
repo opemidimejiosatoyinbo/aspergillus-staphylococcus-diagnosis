@@ -1,0 +1,4 @@
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	NZ_CP122491.1	42701	43543	-	blaZ	penicillin-hydrolyzing class A beta-lactamase BlaZ	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	281	281	100.00	94.66	281	WP_000733281.1	penicillin-hydrolyzing class A beta-lactamase BlaZ	NA	NA
+NA	NZ_CP122491.1	45397	45774	+	blaI	penicillinase repressor BlaI	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	126	126	100.00	96.03	126	WP_001284656.1	penicillinase repressor BlaI	NA	NA
+NA	NZ_CP122491.1	598802	599278	+	dfrB_A135T	Staphylococcus aureus trimethoprim resistant DfrB	core	AMR	POINT	TRIMETHOPRIM	TRIMETHOPRIM	POINTX	159	159	100.00	98.11	159	WP_000175752.1	dihydrofolate reductase DfrB	NA	NA

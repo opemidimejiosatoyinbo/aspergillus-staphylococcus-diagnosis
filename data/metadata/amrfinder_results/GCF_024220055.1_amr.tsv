@@ -1,0 +1,4 @@
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	NZ_CP100428.1	537866	540265	-	parC_S80F	Staphylococcus aureus quinolone resistant ParC	core	AMR	POINT	QUINOLONE	QUINOLONE	POINTX	800	800	100.00	99.25	800	WP_001289586.1	DNA topoisomerase IV subunit A ParC	NA	NA
+NA	NZ_CP100428.1	2718782	2719624	-	blaZ	penicillin-hydrolyzing class A beta-lactamase BlaZ	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	281	281	100.00	94.66	281	WP_000733281.1	penicillin-hydrolyzing class A beta-lactamase BlaZ	NA	NA
+NA	NZ_CP100428.1	2721478	2721855	+	blaI	penicillinase repressor BlaI	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	126	126	100.00	96.03	126	WP_001284656.1	penicillinase repressor BlaI	NA	NA

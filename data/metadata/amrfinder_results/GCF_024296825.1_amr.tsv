@@ -1,0 +1,3 @@
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	NZ_CP101124.1	531997	535545	+	rpoB_R484H	Staphylococcus aureus rifampin resistant RpoB	core	AMR	POINT	RIFAMYCIN	RIFAMPIN	POINTX	1183	1183	100.00	99.83	1183	WP_000918664.1	DNA-directed RNA polymerase subunit beta RpoB	NA	NA
+NA	NZ_CP101124.1	2275683	2276099	+	fosB	FosB/FosD family fosfomycin resistance bacillithiol transferase	core	AMR	AMR	FOSFOMYCIN	FOSFOMYCIN	EXACTX	139	139	100.00	100.00	139	WP_000920239.1	FosB/FosD family fosfomycin resistance bacillithiol transferase	NA	NA

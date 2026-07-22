@@ -1,0 +1,5 @@
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+NA	NZ_CP190800.1	2317444	2317860	+	fosB	FosB/FosD family fosfomycin resistance bacillithiol transferase	core	AMR	AMR	FOSFOMYCIN	FOSFOMYCIN	EXACTX	139	139	100.00	100.00	139	WP_000920239.1	FosB/FosD family fosfomycin resistance bacillithiol transferase	NA	NA
+NA	NZ_CP190801.1	9099	9941	-	blaZ	penicillin-hydrolyzing class A beta-lactamase BlaZ	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	281	281	100.00	98.58	281	WP_000733274.1	penicillin-hydrolyzing class A beta-lactamase BlaZ	NA	NA
+NA	NZ_CP190801.1	10048	11802	+	blaR1	beta-lactam sensor/signal transducer BlaR1	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	585	585	100.00	98.80	585	WP_001096386.1	beta-lactam sensor/signal transducer BlaR1	NA	NA
+NA	NZ_CP190801.1	11795	12172	+	blaI	penicillinase repressor BlaI	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	126	126	100.00	99.21	126	WP_001284656.1	penicillinase repressor BlaI	NA	NA

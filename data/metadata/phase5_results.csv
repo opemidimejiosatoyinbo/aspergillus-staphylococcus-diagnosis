@@ -1,0 +1,6 @@
+metric,value
+best_fusion_method,concat
+test_organism_accuracy,0.98
+test_organism_macro_f1,0.9797979797979798
+test_resistance_accuracy,1.0
+test_resistance_f1,1.0

@@ -1,0 +1,5 @@
+metric,value
+blind_cv_mean_accuracy,0.49375
+blind_test_accuracy,0.575
+blind_test_f1,0.0
+majority_class_baseline,0.565
